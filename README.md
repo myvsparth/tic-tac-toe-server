@@ -8,4 +8,5 @@
 2. npm install
 3. npm start
 
-- Front-End made in react js which will be found at below repo
+- Front-End made in React JS which will be found at below repo
+https://github.com/myvsparth/react-js-tic-tac-toe
