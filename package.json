@@ -10,6 +10,6 @@
   "author": "Parth Patel, myvs.parth@gmail.com",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^2.2.0"
+    "socket.io": "^2.5.0"
   }
 }
